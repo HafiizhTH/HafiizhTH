@@ -1,13 +1,12 @@
 <h2 align="center">
-  Hai, I'm Hafiizh
+  Hai There, I'm Hafiizh
   </br>
 <h2>
 
-<h3>📊 Statistics</h3>
-<p align="left">
-<a href="https://github.com/HafiizhTH">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HafiizhTH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+### 📊 Statistics:
+![](https://github-readme-stats.vercel.app/api?username=HafiizhTH&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HafiizhTH&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HafiizhTH&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafiizhTH&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=HafiizhTH&limit=5&theme=radical&combine_all_yearly_contributions=true)
