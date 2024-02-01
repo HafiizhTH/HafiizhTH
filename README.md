@@ -14,7 +14,7 @@
 ### 💻 Favorite Tools
 ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white) 
 
-### 📊 Statistics
+<h3>📊 Statistics</h3>
 <p align="left">
 <a href="https://github.com/HafiizhTH">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HafiizhTH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
