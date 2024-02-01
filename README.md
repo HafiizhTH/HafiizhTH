@@ -17,13 +17,15 @@
 
 - Databases: MYSQL, Postgres. 
 
-- Integrated Development Environment: Visual Studio Code, Jupyter-Notebook, Postgre.
+- Integrated Development Environment: Visual Studio Code, Jupyter-Notebook.
 
 - Design: Figma.
 
 ### 📊 Statistics
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=HafiizhTH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-eight-theta.vercel.app/api?username=HafiizhTH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=HafiizhTH&theme=algolia&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=HafiizhTH&theme=algolia&hide_border=false)
+<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HafiizhTH&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
