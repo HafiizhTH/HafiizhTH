@@ -15,10 +15,14 @@
 ![Python](https://img.shields.io/badge/python-%23323330?style=for-the-badge&logo=python&logoColor=white) 
 
 ### 📊 Statistics
-<p align="left">
-<a href="https://github.com/HafiizhTH">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HafiizhTH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <a href="https://github.com/HafiizhTH">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HafiizhTH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+</p>
 
-  <img height="100em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafiizhTH&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p align="center">
+  <a href="https://github.com/HafiizhTH">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HafiizhTH&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
