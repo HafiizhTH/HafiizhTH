@@ -15,7 +15,7 @@
 
 - Data Visualization: Matplotlib, Seaborn, Tableau, Google Data Studio. 
 
-- Databases: MYSQL, Postgres. 
+- Databases: MYSQL, PostgreSQL. 
 
 - Integrated Development Environment: Visual Studio Code, Jupyter-Notebook.
 
