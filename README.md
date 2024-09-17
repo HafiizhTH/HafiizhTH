@@ -11,13 +11,15 @@
 ### 💡Skills
 - Data Preprocessing: NumPy, Pandas.
 
-- Machine and Deep Learning: Scikit-Learn, Scipy, Tensorflow.
+- Machine and Deep Learning: Scikit-Learn, Scipy, Tensorflow, PyTorch, OpenCV.
+
+- Pre-Train: Transformers, LLM.
 
 - Data Visualization: Matplotlib, Seaborn, Tableau, Google Data Studio. 
 
-- Databases: MYSQL, PostgreSQL. 
+- Databases: MYSQL, PostgreSQL, Qdrant. 
 
-- Integrated Development Environment: Visual Studio Code, Jupyter-Notebook.
+- Deployment: FastAPI, Docker.
 
 - Design: Figma.
 
