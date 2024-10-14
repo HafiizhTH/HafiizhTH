@@ -9,19 +9,15 @@
 </h1>
 
 ### 💡Skills
-- Data Preprocessing: NumPy, Pandas.
+- Programming Language: Python, SQL.
 
-- Machine and Deep Learning: Scikit-Learn, Scipy, Tensorflow, PyTorch, OpenCV.
+- Machine and Deep Learning: OCR, NLP, CNN, Predictive Model.
 
-- Pre-Train: Transformers, LLM.
+- Data Visualization: Matplotlib, Seaborn, Tableau, Looker Studio. 
 
-- Data Visualization: Matplotlib, Seaborn, Tableau, Google Data Studio. 
+- Databases: MYSQL, PostgreSQL, Qdrant.
 
-- Databases: MYSQL, PostgreSQL, Qdrant. 
-
-- Deployment: FastAPI, Docker.
-
-- Design: Figma.
+- Deployment: FastAPI, Docker, Streamlit, Open WebUI.
 
 ### 📊 Statistics
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=HafiizhTH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
