@@ -15,9 +15,9 @@
 
 - Data Visualization: Matplotlib, Seaborn, Tableau, Looker Studio. 
 
-- Databases: MYSQL, PostgreSQL, Qdrant.
+- Databases/Cloud: MYSQL, PostgreSQL, GCP, Qdrant.
 
-- Deployment: FastAPI, Docker, Streamlit, Open WebUI.
+- Deployment: FastAPI, Docker, Streamlit.
 
 ### 📊 Statistics
 ![](https://github-readme-stats-eight-theta.vercel.app/api?username=HafiizhTH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
